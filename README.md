@@ -26,5 +26,5 @@ https://forms-tasks.herokuapp.com/checkbox-4
 
 Файл с результатами:
 
-https://docs.google.com/spreadsheets/d/1OjbDoV3\_9c6uLRD4COION5fr-jkF2eAwBCgePLkLwSQ/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1OjbDoV3\_9c6uLRD4COION5fr-jkF2eAwBCgePLkLwSQ/edit?usp=sharing
 
